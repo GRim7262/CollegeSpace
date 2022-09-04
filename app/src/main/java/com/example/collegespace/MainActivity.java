@@ -54,7 +54,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         if (toggle.onOptionsItemSelected(item)){
             return true;
         }
-        return true; //vinal
+        return true;
     }
 
     @Override

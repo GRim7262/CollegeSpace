@@ -8,4 +8,7 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="start">Start</string>
     <string name="close">Close</string>
+
+    <string name="about_college">Inter Institutional Computer Centre, Rashtrasant Tukadoji Maharaj Nagpur University, was established in December 1987. The center runs academic and university support activities.</string>
+
 </resources>
